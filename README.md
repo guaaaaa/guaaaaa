@@ -69,7 +69,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ---  
 -->
 <br>
-<h2>🛠️ &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>🛠️ &nbsp;Tech Stack</h2>
 <h3>Programming Languages: </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
