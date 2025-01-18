@@ -95,10 +95,10 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="45" height="45" />
 <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="45" height="45" />
-<img src="" alt="" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" width="45" height="45" />
 <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" alt="pytorch" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="45" height="45" />
-<img src="" alt="" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="83" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="45" height="45" />
 </p>
 
 <h3>DevOps Tools: </h3>
