@@ -121,3 +121,5 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guaaaaa&theme=cobalt)](https://git.io/streak-stats)
