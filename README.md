@@ -68,7 +68,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 ---  
 -->
-
+<br>
 <h2>🛠️ &nbsp;Some Tools I Have Used and Learned</h2>
 <h3>Programming Languages: </h3>
 <p align="left">
@@ -109,6 +109,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 -->
 
+<br>
 <h2>📊 &nbsp;Statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
