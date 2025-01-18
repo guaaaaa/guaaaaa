@@ -129,7 +129,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=296" />
+  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=296&size_weight=0.5&count_weight=0.5" />
 </a>
 
 <!--
