@@ -117,9 +117,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=296" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img alignt="center" src="https://github-readme-streak-stats.herokuapp.com?user=guaaaaa&theme=cobalt" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=colbalt)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
