@@ -69,7 +69,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ---  
 -->
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>🛠️ &nbsp;Some Tools I Have Used and Learned</h2>
 <h3>Programming Languages: </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -108,11 +108,13 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 -->
+
+<h2>📊 &nbsp;Statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
+  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=280" />
+  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=296" />
 </a>
 
 <p align="center">
