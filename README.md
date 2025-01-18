@@ -118,8 +118,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=296" />
 </a>
 
-<a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=guaaaaa" alt="GitHub Streak">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+   <img src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt" alt="GitHub Streak">
 </a>
 
 <p align="center">
