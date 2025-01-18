@@ -96,7 +96,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="45" height="45" />
 <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="45" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="matplotlib" width="45" height="45" />
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/PyTorch_Symbol_01_OrangeOnTransparent_19IjwLp.png" alt="pytorch" width="45" height="45" />
+<img src="https://blog.christianperone.com/wp-content/uploads/2022/08/torch_logo-300x300.png" alt="pytorch" width="45" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="83" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="45" height="45" />
 </p>
