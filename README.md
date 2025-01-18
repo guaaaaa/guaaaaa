@@ -115,9 +115,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=320" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
