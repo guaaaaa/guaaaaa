@@ -76,15 +76,18 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br>
 
 <h2>📊 &nbsp;Statistics</h2>
+<div align="left" height=200 style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt&hide_border=true" />
 </a>
 <a href="https://git.io/streak-stats">
   <img height=165 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548&hide_border=true" alt="GitHub Streak" />
 </a>
+</div>
 
+<br>
 
-<div align="left" height=200 style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="left" height=200 style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top Languages" height="160">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt" alt="Repo Per Language" height="160">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt" alt="Most Commit Language" height="160">
@@ -98,22 +101,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
-
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&hide=html&hide_border=true&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
 </div>
 
