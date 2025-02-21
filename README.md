@@ -123,70 +123,25 @@ technical_background:
 
 <br>
 
-
-
 ### Top Repositories
-<div align="left">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=cobalt&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=cobalt&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=cobalt&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=cobalt&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=cobalt&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=cobalt&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Top Repositories
-<div align="left">
-  <div style="display: flex; justify-content: space-between;">
+<div align="left"  style="display: flex;">
+  <div>
     <a href="https://github.com/KenanGain/fast-gemini-nano">
-      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=ML_Notebook&theme=cobalt&hide_border=true&border_radius=15" />
+      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=ML_Notebook&theme=cobalt&hide_border=true&border_radius=15" />
     </a>
     <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=pokemon_generator_diffusion&theme=cobalt&hide_border=true&border_radius=15" />
+      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=pokemon_generator_diffusion&theme=cobalt&hide_border=true&border_radius=15" />
     </a>
   </div>
-  <div style="display: flex; justify-content: space-between;">
+  <div>
     <a href="https://github.com/KenanGain/moviedjangoai">
-      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=DSA&theme=cobalt&hide_border=true&border_radius=15" />
+      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=DSA&theme=cobalt&hide_border=true&border_radius=15" />
     </a>
     <a href="https://github.com/KenanGain/speech-to-text.git">
-      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=Intel_image_classification&theme=cobalt&hide_border=true&border_radius=15" />
+      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=Intel_image_classification&theme=cobalt&hide_border=true&border_radius=15" />
     </a>
   </div>
 </div>
-
 
 
 ### GitHub Contribution Chart
