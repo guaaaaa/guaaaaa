@@ -173,3 +173,64 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
 </p>
+
+
+
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=guaaaaa&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+</div>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&hide=html&hide_border=true&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt&hide_border=true" alt="Repos Per Language"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt&hide_border=true" alt="Most Commit Language"></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guaaaaa&hide_border=true&border_radius=15&show_icons=true&theme=cobalt" alt="My GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true" alt="GitHub Profile Summary">
+</div>
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/KenanGain/fast-gemini-nano"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
+      <td><a href="https://github.com/KenanGain/Weather-3d-ai-app.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/KenanGain/moviedjangoai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
+      <td><a href="https://github.com/KenanGain/speech-to-text.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/KenanGain/SmolLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
+      <td><a href="https://github.com/KenanGain/Llama-3.2_running_locally"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
+    </tr>
+  </table>
+</div>
+
+### GitHub Contribution Chart
+<div align="center">
+  <a href="https://github.com/guaaaaa">
+    <img src="https://ghchart.rshah.org/guaaaaa" alt="My GitHub Contribution Chart">
+  </a>
+</div>
+
+<details>
+  <summary><strong>⚡ Git Stats Summary ⚡</strong></summary>
+  <div align="center">
+    <img src="https://myreadme.vercel.app/api/embed/guaaaaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My GitHub Stats">
+    <img src="https://github-readme-bento.vercel.app/stats/guaaaaa?theme=dark" alt="My GitHub Stats">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=guaaaaa" alt="Advanced GitHub Stats" width="400">
+  </div>
+</details>
+
+<h3 align="center">Leetcode Stats</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap" alt="Leetcode Stats"/>
+</div>
