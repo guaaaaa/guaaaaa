@@ -77,10 +77,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h2>📊 &nbsp;Statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=185 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548" alt="GitHub Streak" />
+  <img height=170 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548" alt="GitHub Streak" />
 </a>
 
 <div align="center" display="inline-flex">
