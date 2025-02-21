@@ -122,25 +122,34 @@ technical_background:
 <!-- Tessting-->
 
 <br>
-
-### Top Repositories
-<div align="left"  style="display: flex;">
-  <div>
-    <a href="https://github.com/KenanGain/fast-gemini-nano">
-      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=ML_Notebook&theme=cobalt&hide_border=true&border_radius=15" />
-    </a>
-    <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=pokemon_generator_diffusion&theme=cobalt&hide_border=true&border_radius=15" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/KenanGain/moviedjangoai">
-      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=DSA&theme=cobalt&hide_border=true&border_radius=15" />
-    </a>
-    <a href="https://github.com/KenanGain/speech-to-text.git">
-      <img height=140 width=40% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=Intel_image_classification&theme=cobalt&hide_border=true&border_radius=15" />
-    </a>
-  </div>
+<h2>Top Repositories</h2>
+<div align="left">
+  <table style="border-collapse: collapse; width: 100%; border: 0px transparent;">
+    <tr>
+      <td style="border: 0px transparent; text-align: center;">
+        <a href="https://github.com/KenanGain/fast-gemini-nano">
+          <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=ML_Notebook&theme=cobalt&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td style="border: 0px transparent; text-align: center;">
+        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+          <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=pokemon_generator_diffusion&theme=cobalt&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 0px transparent; text-align: center;">
+        <a href="https://github.com/KenanGain/moviedjangoai">
+          <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=DSA&theme=cobalt&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td style="border: 0px transparent; text-align: center;">
+        <a href="https://github.com/KenanGain/speech-to-text.git">
+          <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=Intel_image_classification&theme=cobalt&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
