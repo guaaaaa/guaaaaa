@@ -154,8 +154,8 @@ I am Aaron, a second year computer engineering student at University of Toronto!
 
 
 
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
+<h3 align="left">Leetcode Stats</h3>
+<p align="left">
+  <img align="center" src="https://leetcard.jacoblin.cool/gu20041006?ext=heatmap?theme=dark"/>
 </p>
 
