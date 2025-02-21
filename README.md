@@ -82,7 +82,9 @@ I am Aaron, a second-year computer engineering student at University of Toronto!
 <img width=800 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true">
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- Tessting-->
 
