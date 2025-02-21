@@ -2,8 +2,39 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<h1 align="center">I'm Aaron<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
 <h2 align="Left">🚀 About Me</h2>
-I am Aaron, a second-year computer engineering student at University of Toronto!
+
+```yaml
+name: Aaron Gu
+located_in: Toronto, Ontario
+education:
+  [
+    "Unversity of Toronto - 2nd Year Computer Engineering Student",
+  ]
+
+fields_of_interests:
+  [
+    "Machine Learning"
+    "Software Development",
+    "DevOps",
+    "Cloud Computing",
+    "Data Science",
+  ]
+```
+
+
+<!--
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+
+-->
 
 <br>
 <h2>🛠️ &nbsp;Tech Stack</h2>
@@ -81,6 +112,8 @@ I am Aaron, a second-year computer engineering student at University of Toronto!
 
 <img width=800 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true">
 
+<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=cobalt&bg_color=193548&color=74EEB0&line=E684D8&point=74EEB0&area_color=E684D8&title_color=E684D8&area=true" alt="GitHub Activity Graph" />
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -88,16 +121,13 @@ I am Aaron, a second-year computer engineering student at University of Toronto!
 
 <!-- Tessting-->
 
-
-<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=cobalt&bg_color=193548&color=74EEB0&line=E684D8&point=74EEB0&area_color=E684D8&title_color=E684D8&area=true" alt="GitHub Activity Graph" />
-
 <br>
 
 
 
 ### Top Repositories
-<div align="center">
-  <table>
+<div align="left">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <td>
         <a href="https://github.com/KenanGain/fast-gemini-nano">
@@ -137,6 +167,26 @@ I am Aaron, a second-year computer engineering student at University of Toronto!
   </table>
 </div>
 
+### Top Repositories
+<div align="left">
+  <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/KenanGain/fast-gemini-nano">
+      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=ML_Notebook&theme=cobalt&hide_border=true&border_radius=15" />
+    </a>
+    <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=pokemon_generator_diffusion&theme=cobalt&hide_border=true&border_radius=15" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/KenanGain/moviedjangoai">
+      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=DSA&theme=cobalt&hide_border=true&border_radius=15" />
+    </a>
+    <a href="https://github.com/KenanGain/speech-to-text.git">
+      <img height=150 width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=Intel_image_classification&theme=cobalt&hide_border=true&border_radius=15" />
+    </a>
+  </div>
+</div>
+
 
 
 ### GitHub Contribution Chart
@@ -163,4 +213,3 @@ I am Aaron, a second-year computer engineering student at University of Toronto!
 <p align="left">
   <img align="center" src="https://leetcard.jacoblin.cool/gu20041006?ext=heatmap?theme=dark"/>
 </p>
-
