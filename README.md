@@ -146,6 +146,7 @@ technical_background:
   </table>
 </div>
 
+<br>
 <h2 align="left">💻 &nbsp;Leetcode Stats</h2>
 <p align="left">
   <img align="center" src="https://leetcard.jacoblin.cool/gu20041006?ext=heatmap?theme=dark"/>
