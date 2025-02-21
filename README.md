@@ -84,7 +84,7 @@ I am Aaron, a second year computer engineering student at University of Toronto!
 <!-- Tessting-->
 
 
-<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=cobalt&bg_color=193548&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=cobalt&bg_color=193548&color=74EEB0&line=E684D8&point=74EEB0&area_color=E684D8&title_color=E684D8&area=true" alt="GitHub Activity Graph" />
 
 <br>
 
