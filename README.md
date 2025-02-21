@@ -83,7 +83,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <img height=170 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<div align="center" height=185 style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" height=200 style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top Languages" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt" alt="Repo Per Language" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt" alt="Most Commit Language" height="150">
