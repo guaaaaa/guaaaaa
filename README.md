@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I'm Aaron<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
-<h2 align="Left">🚀 About Me</h2>
+<h2 align="Left">🚀 &nbsp;About Me</h2>
 
 ```yaml
 name: Aaron Gu
@@ -114,15 +114,9 @@ technical_background:
 
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=cobalt&bg_color=193548&color=74EEB0&line=E684D8&point=74EEB0&area_color=E684D8&title_color=E684D8&area=true" alt="GitHub Activity Graph" />
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<!-- Tessting-->
 
 <br>
-<h2>Top Repositories</h2>
+<h2>🔥 &nbsp;Top Repositories</h2>
 <div align="left">
   <table style="border-collapse: collapse; width: 100%; border: 0px transparent;">
     <tr>
@@ -152,28 +146,15 @@ technical_background:
   </table>
 </div>
 
-
-### GitHub Contribution Chart
-<a href="https://github.com/guaaaaa">
-    <img src="https://ghchart.rshah.org/guaaaaa" alt="My GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/guaaaaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/guaaaaa?theme=dark" alt="My GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=guaaaaa" alt="Advanced GitHub Stats" width="400">
-
-
-</details>
-
-
-
-<h3 align="left">Leetcode Stats</h3>
+<h2 align="left">💻 &nbsp;Leetcode Stats</h2>
 <p align="left">
   <img align="center" src="https://leetcard.jacoblin.cool/gu20041006?ext=heatmap?theme=dark"/>
 </p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!-- Tessting-->
+
