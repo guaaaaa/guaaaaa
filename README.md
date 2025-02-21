@@ -5,6 +5,7 @@
 <h2 align="center">🚀 About Me</h2>
 As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
+
 <br>
 <h2>🛠️ &nbsp;Tech Stack</h2>
 <h3>Programming Languages: </h3>
@@ -75,12 +76,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guaaaaa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
@@ -106,7 +101,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=guaaaaa&hide_border=true&border_radius=15&show_icons=true&theme=cobalt" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=guaaaaa&hide_border=true&border_radius=15&show_icons=true&theme=cobalt" alt="My GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true">
 
@@ -155,8 +150,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 ### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/guaaaaa" alt="KenanGain's GitHub Contribution Chart">
+<a href="https://github.com/guaaaaa">
+    <img src="https://ghchart.rshah.org/guaaaaa" alt="My GitHub Contribution Chart">
 </a>
 
 
@@ -165,9 +160,9 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/guaaaaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/guaaaaa?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=guaaaaa" alt="Advanced GitHub Stats for KenanGain" width="400">
+  <img src="https://myreadme.vercel.app/api/embed/guaaaaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/guaaaaa?theme=dark" alt="My GitHub Stats">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=guaaaaa" alt="Advanced GitHub Stats" width="400">
 
 
 </details>
