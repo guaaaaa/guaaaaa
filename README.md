@@ -75,15 +75,39 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 
+<h2>📊 &nbsp;Statistics</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=185 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548" alt="GitHub Streak" />
+</a>
 
-<h3 align="center">Git Stats</h3>
+<div align="center" display="inline-flex">
+  <div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages">
+  </div>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt" alt="Repo Per Language">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt" alt="Most Commit Language">
+</div>
 
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=guaaaaa&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-  <br>
+
+<div align="center" height=185 style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top Languages" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt&hide_border=false" alt="Repo Per Language" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt" alt="Most Commit Language" height="150">
+</div>
+
+
+
+
+
+
+
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
+
+
 <div align="center">
 <table>
   <tr>
@@ -174,63 +198,3 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
 </p>
 
-
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=guaaaaa&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&hide=html&hide_border=true&layout=compact&langs_count=8&theme=cobalt" alt="Top Languages"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt&hide_border=true" alt="Repos Per Language"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt&hide_border=true" alt="Most Commit Language"></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guaaaaa&hide_border=true&border_radius=15&show_icons=true&theme=cobalt" alt="My GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true" alt="GitHub Profile Summary">
-</div>
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/KenanGain/fast-gemini-nano"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
-      <td><a href="https://github.com/KenanGain/Weather-3d-ai-app.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KenanGain/moviedjangoai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
-      <td><a href="https://github.com/KenanGain/speech-to-text.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KenanGain/SmolLM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
-      <td><a href="https://github.com/KenanGain/Llama-3.2_running_locally"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=cobalt&hide_border=true&border_radius=15" /></a></td>
-    </tr>
-  </table>
-</div>
-
-### GitHub Contribution Chart
-<div align="center">
-  <a href="https://github.com/guaaaaa">
-    <img src="https://ghchart.rshah.org/guaaaaa" alt="My GitHub Contribution Chart">
-  </a>
-</div>
-
-<details>
-  <summary><strong>⚡ Git Stats Summary ⚡</strong></summary>
-  <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/guaaaaa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My GitHub Stats">
-    <img src="https://github-readme-bento.vercel.app/stats/guaaaaa?theme=dark" alt="My GitHub Stats">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=guaaaaa" alt="Advanced GitHub Stats" width="400">
-  </div>
-</details>
-
-<h3 align="center">Leetcode Stats</h3>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap" alt="Leetcode Stats"/>
-</div>
