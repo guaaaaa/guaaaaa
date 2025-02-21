@@ -77,13 +77,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h2>📊 &nbsp;Statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt&hide_border=true" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt&hide_border=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=170 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548&hide_border=true" alt="GitHub Streak" />
+  <img height=165 align="center" src="https://streak-stats.demolab.com?user=guaaaaa&theme=cobalt&background=193548&hide_border=true" alt="GitHub Streak" />
 </a>
-
-<div align="center" height=200 style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<hr>
+<div align="left" height=200 style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top Languages" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guaaaaa&theme=cobalt" alt="Repo Per Language" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt" alt="Most Commit Language" height="150">
