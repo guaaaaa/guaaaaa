@@ -3,8 +3,7 @@
 </p>
 
 <h2 align="center">🚀 About Me</h2>
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
+I am Aaron, a second year computer engineering student at University of Toronto!
 
 <br>
 <h2>🛠️ &nbsp;Tech Stack</h2>
@@ -63,19 +62,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 <h2>📊 &nbsp;Statistics</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaaaa&layout=compact&show_icons=true&theme=cobalt&card_width=296&size_weight=0.5&count_weight=0.5" />
-</a>
-
-
-<!-- Tessting-->
-
-<br>
-
-<h2>📊 &nbsp;Statistics</h2>
 <div align="left" height=200 style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=guaaaaa&show_icons=true&theme=cobalt&hide_border=true" />
@@ -93,20 +79,16 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guaaaaa&theme=cobalt" alt="Most Commit Language" height="160">
 </div>
 
+<img width=800 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true">
+
+<!-- Tessting-->
 
 
+<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=My%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&theme=cobalt&bg_color=193548&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
-
-
-
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guaaaaa&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 
-</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=guaaaaa&hide_border=true&border_radius=15&show_icons=true&theme=cobalt" alt="My GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guaaaaa&theme=cobalt&hide_border=true">
 
 ### Top Repositories
 <div align="center">
