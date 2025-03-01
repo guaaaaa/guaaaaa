@@ -121,24 +121,24 @@ technical_background:
   <table style="border-collapse: collapse; width: 100%; border: 0px transparent;">
     <tr>
       <td style="border: 0px transparent; text-align: center;">
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
+        <a href="https://github.com/guaaaaa/ML_Notebook">
           <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=ML_Notebook&theme=cobalt&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td style="border: 0px transparent; text-align: center;">
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
+        <a href="https://github.com/guaaaaa/pokemon_generator_diffusion">
           <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=pokemon_generator_diffusion&theme=cobalt&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td style="border: 0px transparent; text-align: center;">
-        <a href="https://github.com/KenanGain/moviedjangoai">
+        <a href="https://github.com/guaaaaa/DSA">
           <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=DSA&theme=cobalt&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td style="border: 0px transparent; text-align: center;">
-        <a href="https://github.com/KenanGain/speech-to-text.git">
+        <a href="https://github.com/guaaaaa/Intel_image_classification">
           <img height=140 width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=guaaaaa&repo=Intel_image_classification&theme=cobalt&hide_border=true&border_radius=15" />
         </a>
       </td>
