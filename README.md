@@ -21,6 +21,11 @@ fields_of_interests:
     "Cloud Computing",
     "Data Science",
   ]
+
+my_websites:
+  [
+    "https://guaaaaa.github.io/ML_Notebook/"
+  ]
 ```
 
 
@@ -33,8 +38,14 @@ technical_background:
     "Intern - Internet Of Things",
     "Intern - VLSI and FPGA Implementation",
   ]
-
 -->
+
+<br>
+
+<h2>📠 &nbsp;Learn Machine Learning With Me</h2>
+
+<a href="https://guaaaaa.github.io/ML_Notebook/" target="_blank">My Machine Learning Notebook</a>
+
 
 <br>
 <h2>🛠️ &nbsp;Tech Stack</h2>
