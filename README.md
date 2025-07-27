@@ -44,7 +44,7 @@ technical_background:
 
 <h2>📠 &nbsp;Learn Machine Learning With Me</h2>
 
-<a href="https://guaaaaa.github.io/ML_Notebook/" target="_blank">My Machine Learning Notebook</a>
+<h3><a href="https://guaaaaa.github.io/ML_Notebook/" target="_blank">My Machine Learning Notebook</a></h3>
 
 
 <br>
