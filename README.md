@@ -10,7 +10,7 @@ name: Aaron Gu
 located_in: Toronto, Ontario
 education:
   [
-    "Unversity of Toronto - 2nd Year Computer Engineering Student",
+    "Unversity of Toronto - 3rd Year Computer Engineering Student",
   ]
 
 fields_of_interests:
